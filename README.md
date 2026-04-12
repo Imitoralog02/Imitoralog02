@@ -31,7 +31,7 @@ Backend Development
 [![My Skills](https://skillicons.dev/icons?i=fastapi,spring,nodejs)](https://skillicons.dev)
 
 Databases
-[![My Skills](https://skillicons.dev/icons?i=postgres,mongodb,sqlite,redis,supabase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,mongodb,sqlite,mysql,redis,supabase)](https://skillicons.dev)
 
 Tools
 [![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,)](https://skillicons.dev)
