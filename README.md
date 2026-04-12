@@ -1,4 +1,4 @@
-<img width="836" height="892" alt="image" src="https://github.com/user-attachments/assets/3e4a1e16-f44a-4c47-893c-a41b1452ab63" /># 👋 Hi, I'm Imitoralog
+👋 Hi, I'm Imitoralog
 
 I'm a passionate Mobile & Backend Developer with a strong focus on building
 real-world applications that are clean, scalable, and user-centric.
@@ -15,21 +15,28 @@ across every platform.
 > *Always learning. Always building. Always shipping.*
 
 💻 Android Developer  
-🚀 Backend Developer (Spring Boot)  
+🚀 Backend Developer 
 📱 Building mobile apps  
 
 ---
 
 ## Skill
 Programming Languages
-https://skillicons.dev/icons?i=all https://skillicons.dev/icons?i=all https://skillicons.dev/icons?i=all https://skillicons.dev/icons?i=all https://skillicons.dev/icons?i=all 
+[![My Skills](https://skillicons.dev/icons?i=dart,java,kotlin,)](https://skillicons.dev)
 
 Frontend Development
-https://skillicons.dev/icons?i=all https://skillicons.dev/icons?i=all https://skillicons.dev/icons?i=all https://skillicons.dev/icons?i=all https://skillicons.dev/icons?i=all https://skillicons.dev/icons?i=all 
----
+[![My Skills](https://skillicons.dev/icons?i=html,css,kotlin,bootstrap,flutter,kotlin)](https://skillicons.dev)
 
-## 📊 GitHub Stats
-![stats](https://github-readme-stats.vercel.app/api?username=imitoralog02&show_icons=true&theme=radical)
+Backend Development
+[![My Skills](https://skillicons.dev/icons?i=fastapi,spring,nodejs)](https://skillicons.dev)
+
+Databases
+[![My Skills](https://skillicons.dev/icons?i=postgres,mongodb,sqlite,redis,supabase)](https://skillicons.dev)
+
+Tools
+[![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,)](https://skillicons.dev)
+
+---
 
 ---
 
