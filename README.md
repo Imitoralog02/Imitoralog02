@@ -25,7 +25,7 @@ Programming Languages
 [![My Skills](https://skillicons.dev/icons?i=dart,java,kotlin,)](https://skillicons.dev)
 
 Frontend Development
-[![My Skills](https://skillicons.dev/icons?i=html,css,kotlin,bootstrap,flutter,kotlin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,kotlin,flutter,reactnative)](https://skillicons.dev)
 
 Backend Development
 [![My Skills](https://skillicons.dev/icons?i=fastapi,spring,nodejs)](https://skillicons.dev)
