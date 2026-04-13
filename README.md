@@ -24,16 +24,16 @@ across every platform.
 Programming Languages
 [![My Skills](https://skillicons.dev/icons?i=dart,java,kotlin,)](https://skillicons.dev)
 
-Frontend Development
+#### Frontend Development
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,kotlin,flutter,reactnative)](https://skillicons.dev)
 
-Backend Development
+#### Backend Development
 [![My Skills](https://skillicons.dev/icons?i=fastapi,spring,nodejs)](https://skillicons.dev)
 
-Databases
+#### Databases
 [![My Skills](https://skillicons.dev/icons?i=postgres,mongodb,sqlite,mysql,redis,supabase)](https://skillicons.dev)
 
-Tools
+#### Tools
 [![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,)](https://skillicons.dev)
 
 ---
