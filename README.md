@@ -21,6 +21,6 @@ across every platform.
 ---
 
 <p align="center">
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Imitoralog02&theme=github_dark"/>
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_USERNAME&theme=github_dark"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Imitoralog02&theme=github_dark" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Imitoralog02&theme=github_dark" />
 </p>
