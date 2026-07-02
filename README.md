@@ -20,25 +20,7 @@ across every platform.
 
 ---
 
-## Skill
-#### Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=dart,java,kotlin,)](https://skillicons.dev)
-
-#### Frontend Development
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,kotlin,flutter,reactnative)](https://skillicons.dev)
-
-#### Backend Development
-[![My Skills](https://skillicons.dev/icons?i=fastapi,spring,nodejs)](https://skillicons.dev)
-
-#### Databases
-[![My Skills](https://skillicons.dev/icons?i=postgres,mongodb,sqlite,mysql,redis,supabase)](https://skillicons.dev)
-
-#### Tools
-[![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,)](https://skillicons.dev)
-
----
-
----
-
-## 🔥 Streak
-![streak](https://streak-stats.demolab.com/?user=imitoralog02&theme=radical)
+<p align="center">
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Imitoralog02&theme=github_dark"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_USERNAME&theme=github_dark"/>
+</p>
