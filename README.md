@@ -24,5 +24,5 @@ across every platform.
 
 ---
 
-<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=Imitaralog02&show_icons=true&theme=tokyonight&hide_border=true"/> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imitaralog02&layout=compact&theme=tokyonight&hide_border=true"/> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Imitaralog02&theme=tokyonight&hide_border=true"/> </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Imitaralog02&label=Profile%20views&color=BFA07A&style=flat"/> </p>
+<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=Imitaralog02&show_icons=true&theme=tokyonight&hide_border=true"/> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imitoralog02&layout=compact&theme=tokyonight&hide_border=true"/> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Imitoralog02&theme=tokyonight&hide_border=true"/> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Imitoralog02&label=Profile%20views&color=BFA07A&style=flat"/> </p>
