@@ -19,10 +19,10 @@ across every platform.
 📱 Building mobile apps  
 
 ---
-
-<p align="center"> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/> </p>
+📊 GitHub Stats
+<div align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=Imitaralog02&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imitoralog02&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Imitoralog02&theme=tokyonight&hide_border=true"/> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Imitoralog02&theme=tokyo-night&hide_border=true"/> </div> <br/>
 
 ---
 
-<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=Imitaralog02&show_icons=true&theme=tokyonight&hide_border=true"/> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imitoralog02&layout=compact&theme=tokyonight&hide_border=true"/> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Imitoralog02&theme=tokyonight&hide_border=true"/> </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Imitoralog02&label=Profile%20views&color=BFA07A&style=flat"/> </p>
+🏆 Trophies
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Imitoralog02&theme=tokyonight&no-frame=true&row=1&column=6"/> </div> <br/> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:BFA07A&height=100&section=footer"/> </div>
