@@ -29,54 +29,19 @@ Currently pursuing a degree in Information Technology, I specialize in:
 
 <br/>
 
-## 🛠️ Tech Stack
+## 🧩 Skills
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=kotlin,flutter,dart,java,spring,postgres,androidstudio,figma,git,github&theme=dark" />
+<img src="./assets/skills.svg" width="600" alt="Skills"/>
 </div>
 
 <br/>
 
-## 📌 Featured Projects
+## 📊 Profile Metrics
 
-<table>
-<tr>
-<td width="50%">
-
-### 👟 Nike Shoe Shop
-Android e-commerce app built to a Figma design, MVVM architecture.
-
-`Kotlin Compose` `Spring Boot` `PostgreSQL` `Retrofit`
-
-</td>
-<td width="50%">
-
-### 👗 VESTIS
-Fashion e-commerce app with a cream/gold design system.
-
-`Kotlin Compose` `Spring Boot` `PostgreSQL`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🛍️ MAISON Fashion Store
-Fashion SPA with cart, wishlist, search, order details.
-
-`React 18` `Vite`
-
-</td>
-<td width="50%">
-
-### 🎓 EduStu
-Desktop student management app — tuition, records, reporting.
-
-`PyQt6` `FastAPI` `MySQL` `JWT`
-
-</td>
-</tr>
-</table>
+<div align="center">
+<img src="./assets/metrics.svg" width="600" alt="GitHub Metrics"/>
+</div>
 
 <br/>
 
