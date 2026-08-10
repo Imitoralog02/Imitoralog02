@@ -1,10 +1,3 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:BFA07A,100:1a1a2e&height=220&section=header&text=Hi,%20I'm%20Imitoralog%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Mobile%20%26%20Backend%20Developer&descAlignY=58&descSize=18"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=BFA07A&center=true&vCenter=true&width=650&lines=Kotlin+%2B+Jetpack+Compose+%7C+Native+Android;Flutter+%7C+Cross-platform+Mobile;Java+Spring+Boot+%2B+PostgreSQL+%7C+Backend;Always+learning.+Always+building.+Always+shipping."/>
-
-</div>
 
 <br/>
 
@@ -27,15 +20,7 @@ Currently pursuing a degree in Information Technology, I specialize in:
 
 </div>
 
-<br/>
 
-## 🧩 Skills
-
-<div align="center">
-<img src="./assets/skills.svg" width="600" alt="Skills"/>
-</div>
-
-<br/>
 
 ## 📊 Profile Metrics
 
@@ -44,15 +29,3 @@ Currently pursuing a degree in Information Technology, I specialize in:
 </div>
 
 <br/>
-
-## 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Imitoralog02&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:BFA07A&height=100&section=footer"/>
-</div>
