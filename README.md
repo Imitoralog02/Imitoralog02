@@ -25,7 +25,7 @@ Currently pursuing a degree in Information Technology, I specialize in:
 ## 📊 Profile Metrics
 
 <div align="center">
-<img src="./assets/metrics.svg" width="600" alt="GitHub Metrics"/>
+<img src="./assets/metrics.svg" width="550" alt="GitHub Metrics"/>
 </div>
 
 <br/>
